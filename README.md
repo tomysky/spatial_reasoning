@@ -12,7 +12,7 @@
 # --------------- 广告 ---------------
 
 # 空间推理验证码
-
+# 教程视频讲解地址：https://www.bilibili.com/video/BV1cs7gzZEhD/?vd_source=4e60c6c3075c23c4aef0f545b39459b8
 ## 1.分析
 
 <img src="assets/image-20250601055924615.png" alt="image-20250601055924615" style="zoom:200%;" />
